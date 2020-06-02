@@ -17,9 +17,8 @@ This can be used by deeplearning and machine learning researchers for downloadin
 4 (Optional) Configure environment variables paths for python.exe and chromedriver.exe.
 
 # Running
-  Open terminal in the directory of shutterscrape.py and enter:
-  
-  python shutterscrape.py
+  Open terminal in the directory of shutterscrape.py and enter: 
+  # python shutterscrape.py
   
   Go grab a cup of coffee while waiting... oh wait, it's already done!
   
