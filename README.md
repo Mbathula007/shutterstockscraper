@@ -10,8 +10,11 @@ This can be used by deeplearning and machine learning researchers for downloadin
 2 Open terminal and enter the following lines:
 
 3  pip install beautifulsoup4
+
    pip install selenium
+   
    pip install lxml
+   
    Install ChromeDriver.
 
 4 (Optional) Configure environment variables paths for python.exe and chromedriver.exe.
