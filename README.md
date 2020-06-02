@@ -5,7 +5,7 @@ This project is basically an automatic code for downloading all the free images 
 This can be used by deeplearning and machine learning researchers for downloading images directly from shutterstock 
 
 # Setting up
-1 Install Python 3.(if you have a python2, I have aldready provided code but it is commented make sure you uncooment and comment the other one)
+1 Install Python 3.(if you have a python2, I have aldready provided code but it is commented make sure you uncooment the python2 version and comment the other one)
 
 2 Open terminal and enter the following lines:
 
