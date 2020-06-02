@@ -20,6 +20,7 @@ This can be used by deeplearning and machine learning researchers for downloadin
   Open terminal in the directory of shutterscrape.py and enter:
   
   python shutterscrape.py
+  
   Go grab a cup of coffee while waiting... oh wait, it's already done!
   
 # Definitions
