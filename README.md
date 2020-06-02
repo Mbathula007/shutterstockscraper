@@ -15,7 +15,7 @@ This can be used by deeplearning and machine learning researchers for downloadin
    
       pip install lxml
    
- 3 Install ChromeDriver <a href = "https://chromedriver.chromium.org/">.
+ 3 Install  <a href = "https://chromedriver.chromium.org/"> ChromeDriver .
 
 4 (Optional) Configure environment variables paths for python.exe and chromedriver.exe.
 
