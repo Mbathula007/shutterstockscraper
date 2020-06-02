@@ -22,7 +22,7 @@ This can be used by deeplearning and machine learning researchers for downloadin
 # Running
   Open terminal in the directory of shutterscrape.py and enter:  python shutterscrape.py
   
-  Go grab a cup of coffee while waiting... oh wait, it's already done!
+  #### Go grab a cup of coffee while waiting... oh wait, it's already done!
   
 # Definitions
 * Search mode: Enter i for scraping images and v for scraping videos .
