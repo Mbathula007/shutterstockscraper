@@ -1,8 +1,12 @@
-# shutterstockscraper
+# shutterstockscraper googlecolab
+This project is basically an automatic code implemented in google colab for downloading images into drive, Sice most of the people use google colab for training their models whch inspired me to write a ipynb code 
+
+# shutterstockscraper for local system
 
 This project is basically an automatic code for downloading all the free images from shutterstock at free of cost . There are some other versions present in github, basically they are outdated. 
 
 This can be used by deeplearning and machine learning researchers for downloading images directly from shutterstock 
+
 
 # Setting up
 1 Install Python 3.(if you have a python2, I have aldready provided code but it is commented make sure you uncooment the python2 version and comment the other one)
